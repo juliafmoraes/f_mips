@@ -1,0 +1,1 @@
+-w -erf c:/My_Designs/projeto1/projeto06281/compile/projeto06281.erf -d c:/My_Designs/projeto1/projeto06281/compile -s c:/My_Designs/projeto1/library.cfg -j c:/My_Designs/projeto1/projeto06281/projlib.cfg -work projeto06281 -reorder -O3 -e 100 -work projeto06281 -2002 c:/My_Designs/projeto1/projeto06281/src/readtxt.vhd 

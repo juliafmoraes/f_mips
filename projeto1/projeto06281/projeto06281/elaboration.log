@@ -1,0 +1,33 @@
+Active-HDL 10.5.217.6767 2019-06-28 20:22:05
+
+Elaboration top modules:
+Architecture                  beha(read_file)
+
+
+-----------------------------------------------------------------------------------------------
+Entity    | Architecture | Library      | Info | Compiler Version        | Compilation Options
+-----------------------------------------------------------------------------------------------
+read_file | beha         | projeto06281 |      | 10.5.217.6767 (Windows) | -O3
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+VHDL Package             | Library      | Info | Compiler Version        | Compilation Options
+-----------------------------------------------------------------------------------------------
+standard                 | std          |      |                         | <unavailable>
+TEXTIO                   | std          |      |                         | <unavailable>
+std_logic_1164           | ieee         |      |                         | <unavailable>
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+Library                  | Comment
+-----------------------------------------------------------------------------------------------
+ieee                     | Standard IEEE packages library
+projeto06281             | None
+std                      | Standard VHDL library
+-----------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+read_file read_file beha
+
+
+The performance of simulation is reduced. Version Student Edition
