@@ -1,0 +1,7 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:\My_Designs\projeto1\projeto06281\src\readtxt.vhd" 
+MESSAGE "Compile Entity "read_file"" 
+MESSAGE "Compile Architecture "beha" of Entity "read_file"" 
+MESSAGE "Top-level unit(s) detected:" 
+MESSAGE "Entity => read_file" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]" 
